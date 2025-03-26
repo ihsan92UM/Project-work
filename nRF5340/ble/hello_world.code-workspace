@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "hello_world",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"i2c.h": "c",
+			"kernel.h": "c"
+		}
+	}
+}

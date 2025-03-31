@@ -1,3 +1,3 @@
 # Project-work
 
-![plot](C:\Users\Ihsan\Desktop/Hardware Plan.png)
+![plot](.\Users\Ihsan\Desktop/Hardware Plan.png)

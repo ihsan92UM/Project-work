@@ -1,5 +1,0 @@
-uart:~$ i2c -h
-
-uart:~$ device list
-
-uart:~$ i2c scan i2c@9000

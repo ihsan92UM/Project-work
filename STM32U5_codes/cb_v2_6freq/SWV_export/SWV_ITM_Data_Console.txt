@@ -1,0 +1,2381 @@
+SWV ITM Data Console - ITM Port: 0
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 1.36 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 1.41 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 0.78 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.24 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 1.31 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 0.87 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 p
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 0.09 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 1.46 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 1.41 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 2.68 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.28 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 1.02 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 0.92 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 1.56 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 2.10 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = -0.39 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.28 pF
+Channel_6: Capacitance = -0.49 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 3.07 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.32 pF
+Channel_6: Capacitance = -1.13 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 2.10 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 4.24 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.28 pF
+Channel_6: Capacitance = -0.44 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.19 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.87 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = -0.64 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.19 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 1.36 pF
+
+Channel_0: Capacitance = -2.01 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 3.80 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.29 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.78 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 1.41 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 1.41 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 0.78 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.01 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 1.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 0.83 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.25 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 54.19 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 58.39 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.32 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 58.15 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.83 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 63.72 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 55.56 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.15 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 66.45 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 59.66 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.32 pF
+Channel_6: Capacitance = 58.30 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.72 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.88 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 56.93 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.98 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 64.40 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.29 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.88 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 64.40 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.71 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.30 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 62.40 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 65.08 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 65.08 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 65.08 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.83 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.20 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 59.66 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 59.03 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 59.57 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 64.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.93 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 61.67 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 60.20 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 65.08 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.35 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 64.50 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.32 pF
+Channel_6: Capacitance = 60.35 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.15 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 64.99 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 63.13 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 62.94 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 63.62 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.32 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.72 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 63.03 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 60.25 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 58.39 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.88 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.93 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 63.72 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 65.86 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 63.62 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.20 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 60.20 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.93 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 58.15 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 63.67 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 56.83 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 66.40 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.35 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 59.03 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.93 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.42 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.98 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 67.18 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 62.94 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.32 pF
+Channel_6: Capacitance = 57.66 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.28 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 58.93 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -3.86 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 54.83 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.76 pF
+Channel_4: Capacitance = -3.86 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 56.88 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.28 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 57.47 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 59.52 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 54.15 pF
+
+Channel_0: Capacitance = -2.45 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 57.71 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.40 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 53.56 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 65.77 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.56 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 59.66 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 63.77 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 54.15 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -3.91 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -3.96 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.25 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 54.15 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.15 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.72 pF
+Channel_6: Capacitance = 56.98 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 56.10 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 53.56 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 58.35 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.83 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.61 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 61.67 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.72 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 61.62 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.01 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 56.20 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.25 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 61.67 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 59.03 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 60.35 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.25 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.05 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 60.93 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.88 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.46 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 54.93 pF
+
+Channel_0: Capacitance = -15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.25 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 52.78 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 56.10 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 64.40 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 63.03 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 60.25 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.37 pF
+Channel_6: Capacitance = 62.35 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 52.78 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 55.42 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 54.88 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.29 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.93 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 54.15 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 59.03 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 53.36 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 55.61 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 59.66 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 53.36 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 59.03 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.29 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.93 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.56 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.06 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 63.77 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 54.93 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.72 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.35 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 56.93 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.30 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.72 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 62.30 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 58.88 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.06 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.37 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 56.15 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capaa = 0pF
+Channel_3: Capacitance = -3.81 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 64.40 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.72 pF
+Channel_6: Capacitance = 67.77 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 60.35 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 60.93 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 63.86 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 61.76 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.25 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.61 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.88 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.47 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 54.93 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 61.71 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.40 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 54.73 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 55.61 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 60.30 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 59.66 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 53.56 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 56.20 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.15 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.35 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 57.42 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.10 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.30 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.10 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.11 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 59.61 pF
+
+Channel_0: Capacitance = -2.35 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.88 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.40 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.61 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 54.93 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.25 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 60.40 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.35 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 61.86 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 64.40 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 54.93 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 61.08 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 56.93 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.91 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.62 pF
+Channel_6: Capacitance = 56.10 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacite = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 58.35 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.30 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 60.88 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 60.35 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.86 pF
+Channel_4: Capacitance = -4.11 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 55.51 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 56.88 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.67 pF
+Channel_6: Capacitance = 57.52 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.25 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 57.56 pF
+
+Channel_0: Capacitance = -2.40 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 58.35 pF
+
+Channel_0: Capacitance = -2.15 pF
+Channel_1: Frequency = 0.00 Hz , Count 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.06 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 64.35 pF
+
+Channel_0: Capacitance = -2.10 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.88 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.15 pF
+Channel_5: Capacitance = -3.47 pF
+Channel_6: Capacitance = 58.88 pF
+
+Channel_0: Capacitance = -2.30 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.57 pF
+Channel_6: Capacitance = 53.56 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 60.88 pF
+
+Channel_0: Capacitance = -2.25 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -4.01 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.42 pF
+Channel_6: Capacitance = 56.10 pF
+
+Channel_0: Capacitance = -2.20 pF
+Channel_1: Frequency = 0.00 Hz , Count = 0 , Capacitance = 0pF
+Channel_3: Capacitance = -3.96 pF
+Channel_4: Capacitance = -4.20 pF
+Channel_5: Capacitance = -3.52 pF
+Channel_6: Capacitance = 57.61 pF
+

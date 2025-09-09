@@ -11,8 +11,15 @@
 * [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 
 
+#### Software Basics
+
+- **STM32CubeIDE 1.17.0**: An integrated development environment (IDE) used to write, compile, debug, and run code on STM32 microcontrollers.  
+- **STM32CubeMX**: A graphical configuration tool for setting up pins, peripherals, and middleware, which generates initialization code for use in STM32CubeIDE.
+
+These two complement each other, STM32CubeMX is opened initially inside the STM32CubeIDE to setup target and .ioc file.
+
 # Getting Started
-Download all three required software and open STM32CubeIDE1.17.0
+Download all three required software and open `STM32CubeIDE1.17.0`
 
 
 > [!WARNING]  
@@ -28,13 +35,13 @@ Click on `file` then `new` then `stm32 project` and it will open a select `targe
 
 ![Create New Application](../Graphics/stm32.png)
 
-after this select finish and give the program a name
+After this select `Next` and give the program a name.
 
 ![Application_name](../Graphics/stm32_start.png)
 
 Click `finish`.
 
-it will open a board specific software selection , just click OK, if all needed, else deselect. Now it will open a `.ioc` file, where we can setup the peripherals for the program. This is highly specific for the Program itself.
+It will open a board specific software selection , just click `OK` , if all needed, else `Untick`. Now it will open a `.ioc` file, where we can setup the peripherals for the program. This is highly specific for the individual Program.
 
 ![ioc](../Graphics/ioc.png)
 
@@ -83,13 +90,13 @@ Then select `Debug As` then `STM32 Application` , it will open this window :
 
 ![debug](../Graphics/debug.png)
 
-Click `SWD` interface and `scan` for the Nucleo board then Click `Apply` and `OK`.
+Click `SWD` interface , tick `STLINK S/N` and `Scan` for the Nucleo board then Click `Apply` and `OK`.
 
-It will now `generate code` or `build` the code before flashing onto the board. Once it is done flashing `debug perspective` will open as below
+It will now `generate code` or `build` the code accordingly before flashing onto the board. Once it is done flashing `debug perspective` will open as below :
 
 ![debug window](../Graphics/stm32_debug.png)
 
-Navigate the Debug window of the Programme from `HAL_Init();` using the debug commands from the Top of the window.
+Navigate the Debug window of the Programme from `HAL_Init();` using the debug commands from the Top of the window :
 
 ![debug navigation](../Graphics/stm32_debug_window.png)
 

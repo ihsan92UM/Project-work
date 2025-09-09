@@ -46,7 +46,7 @@ To program the custom board based on STM32U545RET6Q , STLINK-V3MINIE is used. ST
 
 
 ***Connection type*** : JTAG Connector
-> [!TIPS] 
+> [!TIP] 
 > Use a STDC14 Adapter to pinout the SWD pins
 
 

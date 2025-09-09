@@ -19,27 +19,29 @@
 *   Connect `SCL` to `P1.03`
 *   Connect `SDA` to `P1.02`
 
-![temperature sensor](../Graphics/Temp_Sensor.png)
+![temperature sensor](/Graphics/Temp_Sensor.png)
 
 
 
 # Programming 
 Import the ```sts40_v1``` folder into workspace by clicking ```add folder``` from the ```Explorer``` tab
-![Select folder](../Graphics/select_folder.png)
+
+![Select folder](/Graphics/select_folder.png)
 
 once imported the folder, goto ```nRF Connect``` tab and click on ```Add Build Configuration``` under application menu.
-![Build config](../Graphics/folder_build_config.png)
+
+![Build config](/Graphics/folder_build_config.png)
 
 Once ```build``` is done, ```flash``` the programme and open ```VCOM1``` port and view the result.
 
-![result](../Graphics/debug_view.png)
+![result](/Graphics/folder_results.png)
 
 
 # Debugging
 
 Alternatively, Debugging can be done, simply turn on the Debugging optimization flag in the ```build configuration``` inside ```Opitimization level``` option.
 
-![Debugging](../Graphics/folder_results.png)
+![Debugging](/Graphics/debug_view.png)
 
 
 # Code Explanation
@@ -106,7 +108,7 @@ Later, sensor binding is configured, which stores sensors information such as I2
 
 ### prj.conf 
 
-This file enables user to include modules to compile and be used inside the programme. For example, to use I2C these two configuration has to be enabled :
+This file enables user to include modules to compile and be used inside the programme. For example, to use `I2C` these two configuration has to be enabled :
 
 ```
 CONFIG_I2C=y
@@ -180,7 +182,7 @@ This line of code gets the node lable from device tree `#define I2C1_NODE DT_NOD
 
 ### main.c
 
-In the main.c file first sts40.h and kernel.h is imported
+In the `main.c` file first `sts40.h` and `kernel.h` is imported
 ```
 #include <zephyr/kernel.h>
 #include "sts40.h"
@@ -200,7 +202,7 @@ if (sts40_init(&sts40_dev) != 0) {
 }
 ```
 
-and finally periodically reading the temperature value
+and finally periodically reading the `temperature` value
 ```
 if (sts40_read_temperature(&sts40_dev, &temperature) == 0) {
 	printk("Temperature: %.2f °C\n", temperature);

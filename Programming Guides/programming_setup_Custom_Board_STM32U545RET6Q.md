@@ -30,8 +30,17 @@ To program the custom board based on STM32U545RET6Q , STLINK-V3MINIE is used. ST
 | VDD      | T_VCC           |   PIN 10 , Bottom Side       |
 | RESET        | T_NRST           | PIN 9 , Bottom Side |
 
+*Connect An external 3.3v and GND to Custom Board. Make sure to have common GND with STLINK-V3MINIE*
+
+| Custom Board | External Supply , nPM1300EK | Comments |
+|--------------|-----------------|----------|
+| GND          | GND             |           |
+| VDD      | VDD           |     3.0V to 3.3V  |
+> [!TIP]
+> nPM1300EK can be used to supply power, just setup VOUT2 of the EK with 3.3V using  nPM Power Up software inside nRF Connect Desktop application.
+
 > [!IMPORTANT]  
-> STLINK-V3MINIE Doesn't provide any power to the custom board rather it detects VDD level. That is why it is written as Target VDD or T_VDD etc. Follow the below picture for further reference.
+> STLINK-V3MINIE Doesn't provide any power to the custom board rather it detects VDD level. That is why it is written as Target VDD or T_VDD etc. Follow the below picture for further reference. 
 
 ![STLINK-V3MINIE Datasheet](../Graphics/stlink.png)
 

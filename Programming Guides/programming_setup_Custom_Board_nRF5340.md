@@ -25,7 +25,7 @@ To program the custom board based on nRF5340 , nRF5340DK is used. nRF5340DK cont
 | SWDIO       | SWDIO           |          |
 | GND          | GND             |          |
 | VTG          | VDD_nRF             | If using P20 |
-| SWD    | SWO             | If using P20 |
+| SWO    | SWO             | If using P20 |
 | VDD      | VDD_nRF            | If powering the external board from the DK |
 | RESET        | RESET           | Optional |
 

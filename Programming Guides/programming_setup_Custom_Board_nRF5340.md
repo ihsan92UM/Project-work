@@ -33,7 +33,7 @@ To program the custom board based on nRF5340 , nRF5340DK is used. nRF5340DK cont
 >  Ground (GND) and voltage level (VDD) must be the same on the DK (used as programmer) and the target board (with the SoC to be programmed) for the external board to be detected and for programming to work.
 
 
-> [!TIPS] 
+> [!TIP] 
 > Shorting VTG and VDD will disable the DKs onboard nRF5340 Chip. Later, this shorted pin has to be connected to the Custom Boards VDD. If a Custom Board is connected, in the VS Code it will show the Custom Board and can be programmed as usual afterwards.
 
 
@@ -43,7 +43,7 @@ To program the custom board based on nRF5340 , nRF5340DK is used. nRF5340DK cont
 
 Only VTG and VDD_nRF are shorted but not connected to the Custom Board. Inside the `Connected Devices` tab `NRF5340_xxAA_REV1` chip will not `appear` or `detected`. 
 
-![Without Custom Board](../Graphics/wo_cb.png)
+![Without Custom Board](../Graphics/wo_cb.PNG)
 
 
 
@@ -51,5 +51,31 @@ Only VTG and VDD_nRF are shorted but not connected to the Custom Board. Inside t
 
 VTG and VDD_nRF is shorted and connected to the Custom Board. `NRF5340_xxAA_REV1` Chip will appear.
 
-![With Custom Board](../Graphics/w_cb.png)
+![With Custom Board](../Graphics/w_cb.PNG)
+
+
+# Programming
+
+Follow the documentation for nRF5340DK programming. 
+> [!IMPORTANT] 
+> It is important to edit `prj.conf` file and add these files extra as below to run codes inside the custom board. Only difference between Custom Board and the DK is Custom Board lacks `external Low frequency Oscillator`. And the code running on nRF5340DK expects this.
+```
+# Reboot
+CONFIG_REBOOT=n
+CONFIG_RESET_ON_FATAL_ERROR=n
+
+
+# clock config  custom board
+CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC=y
+CONFIG_CLOCK_CONTROL_NRF_K32SRC_XTAL=n
+
+
+# custom board logger config
+CONFIG_LOG=y
+CONFIG_CONSOLE=y
+CONFIG_RTT_CONSOLE=y
+CONFIG_USE_SEGGER_RTT=y
+CONFIG_UART_CONSOLE=n
+
+```
 

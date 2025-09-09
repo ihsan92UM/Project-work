@@ -46,6 +46,6 @@ finally using `i2c scan i2c@9000 ` command at available pheripheral will show al
 uart:~$ i2c scan i2c@9000
 ```
 
-![results](/Graphics/i2c_scanner.png)
+![results](/Graphics/i2c_scanner.PNG)
 
 

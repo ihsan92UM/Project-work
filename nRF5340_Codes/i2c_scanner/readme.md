@@ -1,4 +1,4 @@
-# Programming Guide - I2C Scanner nRF5340DK
+# Programming Guide - I2C Scanner for nRF5340DK
 
 ## Requirements
 
@@ -9,7 +9,7 @@
 #### Software
 * i2c_scanner  
 
-> [!WARNING]  
+> [!IMPORTANT]  
 > This code is adapted from [Golioth](https://blog.golioth.io/how-to-use-zephyr-shell-for-interactive-prototyping-with-i2c-sensors/)
 
 # Sensor Connection
